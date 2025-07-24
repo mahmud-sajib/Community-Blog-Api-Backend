@@ -1,3 +1,4 @@
+<!
 To run a Spring Boot application from GitHub on your local machine, follow these steps:
 
 1. Install Git: If you haven't already, install Git on your machine. You can download it from the official Git website (https://git-scm.com/downloads) and follow the installation instructions for your operating system.
@@ -31,3 +32,4 @@ To run a Spring Boot application from GitHub on your local machine, follow these
 6. Access the application: Once the application is running, you can access it by opening a web browser and navigating to `http://localhost:8080` (assuming the application is configured to run on the default port 8080). However, if the application uses a different port, you need to modify the URL accordingly.
 
 That's it! You have successfully cloned and run a Spring Boot application from GitHub on your local machine. Make sure to check the project's documentation or README file for any additional configuration or setup instructions specific to the application you're running.
+>
