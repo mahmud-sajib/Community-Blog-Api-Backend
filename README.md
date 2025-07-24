@@ -1,3 +1,7 @@
+# Social Blog Api Backend
+
+Solo Blog API (Java/Spring Boot) with standard REST endpoints for user auth, posts, comments, and categories designed for building modern blogging platforms.
+
 <!-- 
 To run a Spring Boot application from GitHub on your local machine, follow these steps:
 
